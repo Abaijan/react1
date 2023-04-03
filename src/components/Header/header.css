@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600&display=swap');
+.header{
+    padding: 20px 0 ;
+    height: 60px;
+   position: absolute;
+   transform: translateY(10px);
+   z-index: 20;
+}
+.header__nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400
+}
+.header__menu{
+    display: flex;
+    column-gap: 40px;
+    align-items: center;
+    list-style-type: none;
+    justify-content: baseline;
+}
+.header__item{
+    font-family: 'Gilroy';
+    font-weight: 500;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 150%;
+    color: #3a3a3a;
+    text-transform: uppercase; 
+}
+.header_search{
+  position: relative;
+}
+.header_search-input{
+  width: 380px;
+  height: 35px;
+  padding-left: 40px;
+  border: none;
+  background-color: #F9F6F1;
+}
+ .header_search-icon{
+   position: absolute;
+   left: 10px;
+   top: 10px;
+ }
+.header__icons{
+    width: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+

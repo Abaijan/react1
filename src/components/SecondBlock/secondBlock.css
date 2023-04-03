@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600&display=swap');
+
+
+
+.SecondBlock {
+    font-family: 'Montserrat', sans-serif;
+    height: 200px;
+    display: flex;
+    align-items: center;
+}
+
+.SecondBlock-inner {
+    height: 40px;
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+
+}
+
+.SecondBlock-cart {
+    width: 300px;
+    display: flex;
+    gap: 20px;
+
+}
+.SecondBlock-inner-cart-p{
+ font-weight: 300;
+}

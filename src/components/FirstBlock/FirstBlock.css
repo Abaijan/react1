@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600&display=swap');
+
+.firstBlock {
+    height: 774px;
+    background-color: #FCF8F3;
+    /* position: relative; */
+    background: no-repeat;
+}
+
+.first__block-background-img {
+    position: absolute;
+    z-index: -10;
+    background: #F9F1E7;
+}
+
+.firstBlock-openWindow {
+    position: relative;
+    position: absolute;
+    width: 494px;
+    height: 553px;
+    left: 102px;
+    top: 141px;
+    background: rgba(255, 255, 255, 0.72);
+    backdrop-filter: blur(15.5px);
+    z-index: 1;
+
+}
+
+.firstBlock-openWindow-title {
+    width: 374px;
+    height: 201px;
+    left: 162px;
+    top: 201px;
+    margin: 40px 60px 40px 70px;
+    font-family: 'Montserrat', sans-serif;
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 120%;
+    z-index: 10;
+    color: #3A3A3A;
+}
+
+.firstBlock-openWindow-text {
+    width: 357px;
+    height: 90px;
+    left: 162px;
+    top: 418px;
+    margin: 10px 60px 40px 70px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 150%;
+    z-index: 10;
+
+    color: #898989;
+}
+
+.firstBlock-openWindow-button {
+    width: 374px;
+    height: 78px;
+    left: 162px;
+    top: 556px;
+    z-index: 10;
+    border: none;
+    background: #E89F71;
+    margin-left: 60px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+}
+
+.firstBlock__background-images {
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    gap: 50px;
+
+}
+
+.firstBlock__background-image-left {
+    position: absolute;
+    left: 20px;
+    top: 200px;
+
+}
+
+.firstBlockbackgroundimg-center {
+    position: absolute;
+    left: 320px;
+    top: 200px;
+}
+
+.firstBlockbackgroundimg-right {
+    position: absolute;
+    top: 200px;
+    left: 1255px;
+
+}
+
+.firstBlock-info {
+    position: absolute;
+    z-index: 100;
+    bottom: 40px;
+    right: 10px;
+}
+
+.radio {
+    display: flex;
+    gap: 20px;
+    position:absolute;
+    top: 160px;
+    left: 630px;
+    
+}
+.knopochki{
+    position: absolute;
+    display: flex;
+    gap: 20px;
+    top: 157px;
+    right: 50px;
+}
