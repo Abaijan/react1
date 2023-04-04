@@ -1,0 +1,83 @@
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap');
+  .container{
+    margin: 0 auto;
+    width: 1340px; 
+    position: relative;
+}
+  .thirdBlock__products-inner{
+    height: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 45px;
+    height: 100%;
+}
+.thirdBlock__products-title{
+    text-align: center;
+    height: 100px;
+    font-family: roboto;
+    font-size: 30px;
+}
+.card{
+    width: 287px;
+    height: 450px;
+    position: relative;
+    background-color: #F2F3F5;
+    
+}
+.products-sale{
+    position: absolute;
+    top: 12px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    color: #ffffff;
+    background-color: #E97F7F;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+}
+.card-title{
+    margin-left: 5px;
+    font-weight: 500;
+    text-align: left 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+.card-img{
+
+    /* position: absolute; */
+    left: 30px;
+}
+.text{
+    font-family: roboto;
+}
+.card-info{
+    font-size: 15px;
+    margin-bottom: 20px;
+    font-weight: 400;
+    margin-left: 10px;
+}
+.card-price{
+    font-family: roboto;
+    font-size: large;
+    font-weight: 600;
+    margin-left: 10px;
+}
+.thirdBlock__inner-botton{
+    height: 200px;
+
+}
+.thirdBlock__inner-btn{
+  margin: 100px  520px;
+  cursor:pointer;
+    z-index: 20;
+    width: 280px;
+    height: 60px;
+    border: 3px solid #E8A77F;
+    color: #E8A77F;
+    background-color: #fff;
+    font-family: roboto;
+    font-size: large;
+    cursor: pointer;
+}

@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600&display=swap');
 
+.container{
+    margin: 0 auto;
+    width: 1340px; 
+    position: relative;
+}
 .firstBlock {
     height: 774px;
     background-color: #FCF8F3;

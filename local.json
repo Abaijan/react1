@@ -1,0 +1,69 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "image": "https://lh3.googleusercontent.com/h23zKED_wBi236Vzg2QcAylj7grmdqaEZgieJNLRfc7JYwkx2hkke3Ue-04do539YA0toEVRctr_YIq3FojZizzEr7MZKUykSql4ZsKI    ",
+            "name": "Sylthere",
+            "information": "Stylish cafe chair",
+            "price": "Rp 2.500.000",
+            "sale": "-30%"
+        },
+        {
+            "id": 2,
+            "image": "https://lh3.googleusercontent.com/oT1eR4pkfM80H5qraUvzaipAvomZN_-CYj-T64rNDYe915NusaW3MnXtXz7MizioTBqVsVm35yMwJBFH9m733oC0GqgCjeeYo4HRssg",
+            "name": "Leviosa",
+            "information": "Stylish cafe chair",
+            "price": "Rp 2.500.000",
+            "sale": "-50%"
+        },
+        {
+            "id": 3,
+            "image": "https://lh3.googleusercontent.com/iu-zli_Mj5ZxIsp_KjbWXV30zLDrM-75zlZ2z4uDXiaseAN-X1hABjzDhlWv4nxQY7FgJw6OBFTfXcsiCYXiuf4NB9SkYFhI4uFJLamfaQ",
+            "name": "Lolito",
+            "information": "Luxury big sofa",
+            "price": "Rp 7.000.000",
+            "sale": "-50%"
+        },
+        {
+            "id": 4,
+            "image": "https://lh3.googleusercontent.com/0bzkHkMYXGZfjFWB9c-DdpWvR0W6WNtkNqmbQaIv9SB_8Q20V1JtE_srMMGj23d_6i0YhjJK9VWCn_0j6Xn8NW28Vy1b16XS7UUrLldT",
+            "name": "Respira",
+            "information": "Minimalist fan",
+            "price": "Rp 500.000",
+            "sale": "new"
+
+        },
+        {
+            "id": 5,
+            "image": "https://lh3.googleusercontent.com/gA4VNzgZG_vkVao8pqc7Y9qbw00-c8hGafsFgXrdjgretZ4x3UFz2sLgC-Ub76YuF3JcKRFjyzKLEF8ffMmvO_VyS28MqjtG415uPT1XYg  ",
+            "name": "Grifo",
+            "information": "Ligth lamp",
+            "price": "Rp 1.500.000",
+            "sale":"-30%"
+        },
+        {
+            "id": 6,
+            "image": "https://lh3.googleusercontent.com/4YBTqaJpUa3HlCcoJpwj-ri8QmKHVODt6g-cuFXrir5EiCZnnG3dAVxek2w7cGbBIUPiRMRzMFq9k-9hTQWVnbRZtVpzxm6ynk96_kqF",
+            "name": "Muggo",
+            "information": "Small mug",
+            "price": "Rp 150.000",
+            "sale": "new"
+        },
+        {
+            "id": 7,
+            "image": "https://lh3.googleusercontent.com/whmCwXqj6xFEAkuyLsanOWm-57AfbZrWMR7bCwjS2ZRqjZPHuCvZI3Aax16fa0MoPEEPUQVg-8UDw4NZjiZv4KmeAnrvkZDzyCgzJaDP",
+            "name": "Pinky",
+            "information": "Cute bad set",
+            "price": "Rp 7.000.000",
+            "sale":"-50%"
+        },
+        {
+            "id": 8,
+            "image": "https://lh3.googleusercontent.com/zZGc_MLm3clF-2Fl3SbBEhjqTSF7aZAySDhF5qSwZXhw9L0h0akmF0aBTDt36_GrHUUQMrKuyji2NJNHif50S8i3VYu8xfMeu4C6oDsn",
+            "name": "Potty",
+            "information": "Minimalist flower pot",
+            "price": "Rp 500.000",
+            "sale": "new"
+        }
+    ]
+}

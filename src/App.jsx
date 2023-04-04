@@ -2,6 +2,7 @@ import './App.css';
 import Header from './components/Header/header';
 import FirstBlock from './components/FirstBlock/firstBlock'
 import SecondBlock from './components/SecondBlock/SecondBlock'
+import ThirdBlock from './components/ThirdBlock/ThirdBlock';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Header/>
         <FirstBlock/>
         <SecondBlock/>
+        <ThirdBlock/>
     </div>    
     </>
   );
